@@ -6,4 +6,4 @@ Modules
 
 1. Sending exam code through email for approval
 2. Exam Generator
-
+3. Sending exam code through email if forgotten
